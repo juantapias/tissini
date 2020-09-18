@@ -1,0 +1,30 @@
+.header-container {
+  background: #f5f5f5;
+  box-shadow: 0 0 2px rgba(0, 0, 0, .7);
+  height: 48px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 5;
+}
+.header-page {
+  align-items: center;
+  display: flex;
+}
+.header-page .header-title {
+  color: #f06292;
+  text-transform: uppercase;
+}
+.header-icon {
+  display: flex;
+  justify-content: flex-end;
+}
+.header-icon button {
+  transition: background .3s ease;
+}
+.header-icon button:hover {
+  background-color: #f5e3e9;
+}
+.header-icon .item-icon {
+  color: #f06292;
+}

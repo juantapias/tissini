@@ -1,0 +1,13 @@
+.empty-container {
+  align-items: center;
+  height: 87vh;
+  justify-content: center;
+}
+.img-fluid {
+  max-width: 100%;
+  width: 100%;
+}
+.empty-container .empty-typography {
+  color: #f06292;
+  font-size: 16px;
+}

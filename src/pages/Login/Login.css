@@ -1,0 +1,22 @@
+.login-page {
+  background: url("https://mitienda.moda/img/login.34f12655.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+.subtitle-logo {
+  color: #fff;
+  font-size: 16px !important;
+  margin: 16px auto !important;
+}
+.auth-form .MuiFormLabel-root {
+  color: #fff !important;
+}
+.MuiOutlinedInput-root.Mui-error .MuiOutlinedInput-notchedOutline {
+  border-color: #f44336 !important;
+}
+.auth-form .MuiOutlinedInput-notchedOutline {
+  border-color: #fff !important;
+}
+.auth-form .MuiInputBase-input {
+  color: #fff;
+}

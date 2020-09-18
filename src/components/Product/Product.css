@@ -1,0 +1,34 @@
+.container-product {
+  justify-content: center;
+  margin-bottom: 30px !important;
+}
+.swiper-wrapper {
+  margin: 0;
+  padding-inline-start: 0;
+}
+.caption-product {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+.btn-add-cart {
+  align-items: center;
+  background: #f06292;
+  border: 0;
+  border-radius: 28px;
+  color: #fff;
+  display: flex;
+  font-size: 14px;
+  height: 36px;
+  justify-content: center;
+  text-transform: uppercase;
+  transition: background .3s ease;
+  width: 128px;
+}
+.btn-add-cart:hover {
+  background: #f2759f;
+}
+.price-product {
+  color: #f06292;
+  font-size: 20px !important;
+}
